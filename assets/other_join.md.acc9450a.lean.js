@@ -1,1 +1,0 @@
-import{o as t,c as a,b as e}from"./app.37413a31.js";const d='{"title":"加入我们","description":"","frontmatter":{"sidebar":false},"relativePath":"other/join.md","lastUpdated":1623180134456}',i={},p=e('',6);i.render=function(e,d,i,r,o,n){return t(),a("div",null,[p])};export default i;export{d as __pageData};
